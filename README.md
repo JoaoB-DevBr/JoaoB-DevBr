@@ -25,7 +25,7 @@ Sou o João Benedito de Oliveira Simplicio, tenho 18 anos e sou natual de Osasco
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,git,react,tailwind"/>
 </p>
 
 ---
