@@ -2,14 +2,19 @@
 
 ---
 
-# 🧠 Sobre mim
-Sou o João Benedito de Oliveira Simplicio, tenho 18 anos e sou natual de Osasco, São Paulo. Atualmente sou estudante de Engenharia de Software na FIAP. 
+## 👨‍💻 Sobre mim
 
-💻 Desenvolvedor focado em evolução constante
+Sou João Benedito, estudante de Engenharia de Software na FIAP e
+desenvolvedor em formação, apaixonado por tecnologia e desenvolvimento
+de sistemas.
 
-📚 Estudando novas tecnologias diariamente
+Atualmente estudo e desenvolvo projetos utilizando Java, Python,
+JavaScript, React, HTML e CSS, buscando transformar conhecimento
+teórico em aplicações práticas.
 
-🚀 Em busca de oportunidades na área de desenvolvimento
+🎓 Engenharia de Software — FIAP
+💻 Foco em desenvolvimento de software
+🚀 Buscando minha primeira oportunidade profissional na área
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joão-benedito-dev/" target="_blank">
