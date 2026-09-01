@@ -1,4 +1,4 @@
-# 👨🏼‍💻 João Benedito
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=500&color=75D1FF&width=290&height=35&lines=%3E+Jo%C3%A3o+Benedito" alt="Typing SVG" /></a>
 
 ---
 
